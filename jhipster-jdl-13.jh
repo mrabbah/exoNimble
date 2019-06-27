@@ -1,0 +1,4 @@
+entity MyData {
+	firstDate LocalDate required
+    lasteDate LocalDate required
+}
