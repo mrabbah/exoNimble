@@ -86,7 +86,7 @@ export class Home extends React.Component<IHomeProp, IMyDataUpdateState> {
               />
             </AvGroup>
             <Button color="primary" id="save-entity" type="submit">
-              <FontAwesomeIcon icon="angle-down" />
+              <FontAwesomeIcon icon="save" />
               &nbsp; Calculate the number of days between the two dates entered
             </Button>
           </AvForm>
